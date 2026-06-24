@@ -21,9 +21,7 @@ Objectives:
 * Prepare image data for computer vision applications.
 * Support crop disease classification tasks.
 
----
-
-## 🌱 Dataset Classes
+Dataset Classes:
 
 The dataset contains the following corn leaf categories:
 
@@ -32,21 +30,19 @@ The dataset contains the following corn leaf categories:
 3. Common Rust
 4. Northern Leaf Blight
 
----
+Lab Tasks:
 
-## 📝 Lab Tasks
-
-### Task 1: Binary Classification Dataset
+Task 1: Binary Classification Dataset
 
 Create two categories:
 
-#### Class 1: Healthy
+Class 1: Healthy
 
 * Training Images: 120
 * Validation Images: 30
 * Testing Images: 12
 
-#### Class 2: Unhealthy
+Class 2: Unhealthy
 
 (Combination of remaining disease classes)
 
@@ -54,27 +50,23 @@ Create two categories:
 * Validation Images: 10 images from each disease class
 * Testing Images: 4 images from each disease class
 
----
-
-### Task 2: Difficult Disease Classification
+Task 2: Difficult Disease Classification:
 
 Select two challenging disease classes:
 
-#### Cercospora Leaf Spot
+Cercospora Leaf Spot
+
+* Training Images: 120
+* Validation Images: 30
+* Testing Images: 10
+  
+Northern Leaf Blight
 
 * Training Images: 120
 * Validation Images: 30
 * Testing Images: 10
 
-#### Northern Leaf Blight
-
-* Training Images: 120
-* Validation Images: 30
-* Testing Images: 10
-
----
-
-## ⚙️ Techniques Used
+Techniques Used:
 
 * Image Dataset Organization
 * Directory Structure Creation
@@ -82,20 +74,16 @@ Select two challenging disease classes:
 * File Handling and Copying
 * Dataset Preparation for Deep Learning
 
----
-
-## 🛠 Technologies Used
+Technologies Used:
 
 * Python
 * Jupyter Notebook
 * OS Module
 * Shutil Module
 
----
+ Dataset Structure:
 
-## 📁 Dataset Structure
 
-```text
 DATASET/
 │
 ├── train/
@@ -115,39 +103,15 @@ DATASET/
     ├── Cercospora/
     ├── common_rust/
     └── northern_leaf_blight/
-```
 
----
-
-## 🚀 How to Run
+How to Run:
 
 1. Clone this repository:
-
-```bash
-git clone <repository-url>
-```
-
 2. Install required libraries:
-
-```bash
-pip install jupyter
-```
-
 3. Launch Jupyter Notebook:
+4. Open and run: Lab_7_22jzele0471.ipynb
 
-```bash
-jupyter notebook
-```
-
-4. Open and run:
-
-```text
-Lab_7_22jzele0471.ipynb
-```
-
----
-
-## 🎓 Learning Outcomes
+Learning Outcomes:
 
 After completing this lab, students will be able to:
 
@@ -157,9 +121,7 @@ After completing this lab, students will be able to:
 * Understand dataset preprocessing requirements for deep learning.
 * Build a structured dataset for image classification models.
 
----
-
-## 📜 License
+License:
 
 This project is submitted for academic and educational purposes as part of the Machine Learning Laboratory course.
 
