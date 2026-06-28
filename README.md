@@ -1,4 +1,8 @@
-## Introduction to Machine Learning
+## Course Information
+
+Course: Introduction to Machine Learning
+Program: B.Sc. Electrical Engineering
+University: University of Engineering and Technology (UET) Peshawar
 
 Overview:
 
@@ -67,69 +71,73 @@ Topics Covered
 
 Topics Covered
 
-Linear Regression
-Gradient Descent
-Polynomial Regression
-Underfitting
-Overfitting
-Model Evaluation
-✅ Lab 7 – Image Dataset Preparation
+* Linear Regression
+* Gradient Descent
+* Polynomial Regression
+* Underfitting
+* Overfitting
+* Model Evaluation
+
+### Lab 7 : Image Dataset Preparation
 
 Topics Covered
 
-Dataset Organization
-Train / Validation / Test Split
-File Handling
-Dataset Preparation for Computer Vision
-✅ Lab 8 – Custom CNN for Image Classification
+* Dataset Organization
+* Train / Validation / Test Split
+* File Handling
+* Dataset Preparation for Computer Vision
+
+### Lab 8 : Custom CNN for Image Classification
 
 Topics Covered
 
-CNN Architecture
-Batch Normalization
-Dropout
-Binary Image Classification
-Model Training & Evaluation
-✅ Lab 9 – Image Augmentation & CNN Classification
+* CNN Architecture
+* Batch Normalization
+* Dropout
+* Binary Image Classification
+* Model Training & Evaluation
+
+### Lab 9 : Image Augmentation & CNN Classification
 
 Topics Covered
 
-ImageDataGenerator
-Data Augmentation
-CNN Training
-ModelCheckpoint
-Confusion Matrix
-Classification Report
-Performance Visualization
-✅ Lab 10 – Multi-Layer Perceptron (MLP)
+* ImageDataGenerator
+* Data Augmentation
+* CNN Training
+* ModelCheckpoint
+* Confusion Matrix
+* Classification Report
+* Performance Visualization
+  
+### Lab 10 : Multi-Layer Perceptron (MLP)
 
 Topics Covered
 
-Time-Series Forecasting
-Multivariate Data
-Dense Neural Networks
-Model Evaluation
-✅ Lab 11 – One-Dimensional CNN
+* Time-Series Forecasting
+* Multivariate Data
+* Dense Neural Networks
+* Model Evaluation
+
+### Lab 11 : One-Dimensional CNN
 
 Topics Covered
 
-1D Convolution
-Sequential Data Modeling
-Feature Extraction
-Time-Series Forecasting
-✅ Lab 12 – Long Short-Term Memory (LSTM)
+* 1D Convolution
+* Sequential Data Modeling
+* Feature Extraction
+* Time-Series Forecasting
+
+### Lab 12 : Long Short-Term Memory (LSTM)
 
 Topics Covered
 
-Recurrent Neural Networks
-Sequence Modeling
-Time-Series Forecasting
-Fine-Tuning
-Performance Evaluation
+* Recurrent Neural Networks
+* Sequence Modeling
+* Time-Series Forecasting
+* Fine-Tuning
+* Performance Evaluation
 
----
-
-# 🎯 Course Objectives
+Course Objectives:
 
 * Learn Python programming for Machine Learning.
 * Perform data preprocessing and feature engineering.
@@ -140,9 +148,7 @@ Performance Evaluation
 * Apply machine learning techniques to computer vision and time-series forecasting.
 * Evaluate models using standard performance metrics.
 
----
-
-# 🧠 Topics Covered
+Topics Covered:
 
 ### Python for Machine Learning
 
@@ -187,16 +193,12 @@ Performance Evaluation
 * Long Short-Term Memory (LSTM)
 * Model Fine-Tuning
 
----
-
-# 📊 Datasets Used
+Datasets Used:
 
 * American Electric Power (AEP) Hourly Electricity Consumption Dataset
 * Corn Leaf Disease Image Dataset
 
----
-
-# 📈 Evaluation Metrics
+Evaluation Metrics:
 
 Different laboratories use appropriate evaluation metrics, including:
 
@@ -213,9 +215,7 @@ Different laboratories use appropriate evaluation metrics, including:
 * R² Score
 * Explained Variance Score
 
----
-
-# 🛠 Technologies Used
+Technologies Used:
 
 * Python
 * Jupyter Notebook
@@ -229,35 +229,16 @@ Different laboratories use appropriate evaluation metrics, including:
 * OpenCV
 * Pickle
 
----
+Getting Started:
 
-# 🚀 Getting Started
+1. Clone the Repository
+2. Install Required Libraries
+3. Launch Jupyter Notebook
+4. Open Any Lab Notebook
 
-### 1. Clone the Repository
+Each laboratory is organized into its own folder. Open the desired notebook (.ipynb) and run the cells sequentially.
 
-```bash
-git clone https://github.com/your-username/introduction-to-machine-learning.git
-```
-
-### 2. Install Required Libraries
-
-```bash
-pip install numpy pandas matplotlib seaborn scikit-learn tensorflow jupyter
-```
-
-### 3. Launch Jupyter Notebook
-
-```bash
-jupyter notebook
-```
-
-### 4. Open Any Lab Notebook
-
-Each laboratory is organized into its own folder. Open the desired notebook (`.ipynb`) and run the cells sequentially.
-
----
-
-# 🎓 Learning Outcomes
+Learning Outcomes:
 
 After completing these laboratory experiments, students will be able to:
 
@@ -272,8 +253,6 @@ After completing these laboratory experiments, students will be able to:
 * Evaluate and compare machine learning models using standard metrics.
 * Gain practical experience with real-world datasets.
 
----
-
-# 📜 License
+License:
 
 This repository is submitted for **academic and educational purposes** as part of the **Introduction to Machine Learning Laboratory** course.
